@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdumhsinAlbareedi
-- 👀 I’m interested in Web,Desktop,Mobile Devlopment 
+- 👀 I’m interested in Web,Desktop,Mobile Development 
  
 
 <!---
